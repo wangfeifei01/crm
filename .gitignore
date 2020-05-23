@@ -3,4 +3,5 @@ gitproject/target
 gitproject/workspace
 gitproject/.classpath
 gitproject/.project
-gitproject/src/main/java/cn/mldn/gitproject/IgnoreTest.java
+a.txt
+gitproject/**/IgnoreTT.*
