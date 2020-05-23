@@ -3,5 +3,7 @@ gitproject/target
 gitproject/workspace
 gitproject/.classpath
 gitproject/.project
-a.txt
 gitproject/**/IgnoreTT.*
+b.txt
+c.txt
+d.txt
